@@ -1,3 +1,4 @@
+find the shortest path from a given vertex to every other vertices
 <img width="483" alt="image" src="https://github.com/JerryTseee/Dijkstra-Algorithm/assets/126223772/fc91ee89-b15b-4ad1-b958-38bd7113a052">  
 <img width="513" alt="image" src="https://github.com/JerryTseee/Dijkstra-Algorithm/assets/126223772/4d374015-f322-4317-84fd-7f6d6e1eb2bf">  
 <img width="548" alt="image" src="https://github.com/JerryTseee/Dijkstra-Algorithm/assets/126223772/08d64850-7c9d-4bef-9716-847a7725a78f">  
